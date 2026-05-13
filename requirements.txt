@@ -9,9 +9,12 @@ jupyterlite-pyodide-kernel==0.7.0
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
 
+# Bash kernel
+jjupyterlite-bash-kernel>=0.1
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-zh-CN
+#jupyterlab-language-pack-zh-CN
+jupyterlab-language-pack-ja-JP
 
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.0
